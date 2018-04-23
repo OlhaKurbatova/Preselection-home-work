@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<catalog>
+   <cucumber>
+      <caloricity>50</caloricity>
+      <weight>150</weight>
+      <price>30</price>
+      <name>GiantCucumberFromXML</name>
+      <country>Canada</country>
+   </cucumber>
+   <cucumber>
+      <caloricity>40</caloricity>
+      <weight>100</weight>
+      <price>39</price>
+      <name>CucumberFromXML</name>
+      <country>Canada</country>
+   </cucumber>
+   
+</catalog>
